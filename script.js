@@ -21,7 +21,7 @@ window.addEventListener('mousemove', (e) => {
         });
     }
 });
-
+// I hate coding :sob:
 function animate() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     
@@ -75,3 +75,5 @@ sliders.forEach(slider => {
         slider.scrollLeft = scrollLeft - walk;
     });
 });
+
+// hey. what are u doig here? dont sneak around like that!
