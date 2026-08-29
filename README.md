@@ -16,7 +16,7 @@ A portfolio that shows off my past work and tells more about myself.
 ## More info
 
 * **Frontend:** HTML
-* **Styling:** Custom CSS
+* **Styling:** CSS
 * **Hosting:** GitHub Pages
 
 ---
