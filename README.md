@@ -1,6 +1,6 @@
 # Portfolio
 
-A modern, responsive personal portfolio website built with a sleek blue and black theme to showcase my work, creative gallery, and online presence.
+A portfolio that shows off my past work and tells more about myself.
 
 ---
 
